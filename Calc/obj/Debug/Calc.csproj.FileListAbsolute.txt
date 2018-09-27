@@ -1,0 +1,9 @@
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 1\Ilham\Calc\Calc\bin\Debug\Calc.exe.config
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 1\Ilham\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 1\Ilham\Calc\Calc\obj\Debug\Calc.Form1.resources
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 1\Ilham\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 1\Ilham\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 1\Ilham\Calc\Calc\bin\Debug\Calc.exe
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 1\Ilham\Calc\Calc\bin\Debug\Calc.pdb
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 1\Ilham\Calc\Calc\obj\Debug\Calc.exe
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 1\Ilham\Calc\Calc\obj\Debug\Calc.pdb
